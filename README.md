@@ -1,7 +1,7 @@
 # Solution-Manual
 Solutions for the Continuous Skill Development and Learning Modules
 
-## Unix and Shell Scripting
+## SQL Programming
 
 Will Update Soon
 
